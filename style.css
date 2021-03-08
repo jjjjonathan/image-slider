@@ -47,16 +47,17 @@ body {
 .right-arrow,
 .circles {
   display: inline-block;
-  cursor: pointer;
 }
 
 .left-arrow,
 .right-arrow {
   margin: 0 5px;
+  cursor: pointer;
 }
 
 .circle {
   display: inline-block;
+  cursor: pointer;
   width: 10px;
   height: 10px;
   border-radius: 50%;
